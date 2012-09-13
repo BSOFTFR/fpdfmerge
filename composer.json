@@ -5,7 +5,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Fpdfmerge_": "/fpdfmerge/lib"
+            "Fpdfmerge_": "/lib"
         }
     }
 }
